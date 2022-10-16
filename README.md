@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Krishna Tyagi.
-- 👀 I’m interested in Full stack Web Development in both web2 with Django and python and web3 with javascript. 
+- 👀 I’m interested in Full stack Web Development in both web2 with Django and web3 with javascript. 
 - 🌱 I’m currently learning web3 in javascript.
 - 💞️ I’m looking to collaborate on web2 or web3 projects.
 - 📫 You can contact me from: 
