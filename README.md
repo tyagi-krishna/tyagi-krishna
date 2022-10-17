@@ -27,7 +27,7 @@
 - I have experience in Django and created multiple projects using Django, which are currently available on my github.
 <h3>
 ### :hammer_and_wrench: Languages and Tools :<br><br>
-<div>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="70" width="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  height="70" width="70" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="70" width="70"  />
@@ -44,9 +44,9 @@
 </div>
 <br><br>
 ### :fire: My Stats :<br><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tyagi-krishna&theme=vision-friendly-dark&border_radius=7.7"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tyagi-krishna&theme=vision-friendly-dark&border_radius=7.7"  /></a>
 <br><br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagi-krishna&layout=compact&theme=vision-friendly-dark"/></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyagi-krishna&layout=compact&theme=vision-friendly-dark"  /></a>
 
 
 <!---
