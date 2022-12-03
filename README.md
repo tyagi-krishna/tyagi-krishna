@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning web3 in javascript.<br>
 - 💞️ I’m looking to collaborate on web2 or web3 projects.<br>
 - 📫 Email Address: krishna2021csai133@abesit.edu.in<br>
-- I have experience in Django and created multiple projects using Django, which are currently available on my github.
+- I have created multiple projects in both web3 and web2, which are currently available on my github.
 <h3>
 ### :hammer_and_wrench: Languages and Tools :<br><br>
 <div align="center">
