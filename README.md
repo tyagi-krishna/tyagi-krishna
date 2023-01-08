@@ -20,11 +20,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I’m Krishna Tyagi.
 </h1>
 <h3 align="center" >
-- 👀 I’m interested in Full stack Web Development in both web2 with Django and web3 with javascript. <br>
-- 🌱 I’m currently learning web3 in javascript.<br>
+- 👀 I’m interested in Machine Learning and have created multiple Machine Learning Projects.<br>
+- 🌱 I have learned web development and blockchain development, and created multiple projects which are available on my Github.<br>
 - 💞️ I’m looking to collaborate on web2 or web3 projects.<br>
 - 📫 Email Address: krishna2021csai133@abesit.edu.in<br>
-- I have created multiple projects in both web3 and web2, which are currently available on my github.
 <h3>
 ### :hammer_and_wrench: Languages and Tools :<br><br>
 <div align="center">
