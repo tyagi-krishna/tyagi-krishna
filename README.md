@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://tyagi-krishna.github.io/">Portfolio Website,</a>
+  
   <a href="https://www.linkedin.com/in/krishna-tyagi-20b953250/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -25,6 +25,7 @@
 - 🌱 I have learned web development and blockchain development, and created multiple projects which are available on my Github.<br>
 - 💞️ I’m looking to collaborate on web2 or web3 projects.<br>
 - 📫 Email Address: krishna2021csai133@abesit.edu.in<br>
+- 📫 Portfolio Website: https://tyagi-krishna.github.io/<br>
 <h3>
 ### :hammer_and_wrench: Languages and Tools :<br><br>
 <div align="center">
