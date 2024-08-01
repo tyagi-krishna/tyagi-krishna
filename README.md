@@ -24,7 +24,7 @@
 - 👀 I’m interested in Machine Learning and have created multiple Machine Learning Projects.<br>
 - 🌱 I have learned web development and blockchain development, and created multiple projects which are available on my Github.<br>
 - 💞️ I’m looking to collaborate on web2 or web3 projects.<br>
-- 📫 Email Address: krishna2021csai133@abesit.edu.in<br>
+- 📫 Email Address: kt159875321@gmail.com<br>
 - 📫 Portfolio Website: https://tyagi-krishna.github.io/<br>
 <h3>
 ### :hammer_and_wrench: Languages and Tools :<br><br>
