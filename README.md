@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hey there, I'm Krishna 👋</h1>
+<h1 align="center">Hi, I'm Krishna Tyagi 👋</h1>
 
 <div id="badges" align="center">
   <a href="https://instagram.com/krishnatyagi_00">
@@ -19,39 +19,33 @@
   </a>
 </div>
 
----
-
 ## 💫 About Me
 
-- 👨‍💻 I'm a **Backend Engineer** working mainly with Java & Spring Boot to build scalable systems.
-- 🧠 I’ve previously worked on **blockchain**, **ML**, and full-stack projects.
-- 🚀 Currently building **[NoteZy](https://notezy.in)** — a student-powered notes-sharing platform for India.
-- 📈 Passionate about clean architecture, system design, and real-world API integrations.
-- 💬 Let's collaborate on backend-heavy or full-stack products — Web2 or Web3!
-
----
+- 👨‍💻 I'm a **Backend Engineer** with hands-on experience in Java & Spring Boot.
+- 🔌 I design and integrate real-world APIs like TaxJar, UPS, and TForce.
+- 🧠 I've previously worked across **blockchain**, **ML**, and full-stack web development.
+- 🚀 Currently building **[NoteZy](https://notezy.in)** — a platform for students in India to share academic notes.
+- 🤝 Open to collaboration on impactful backend or full-stack projects — Web2 or Web3.
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `Python` `C++` `JavaScript` `TypeScript` `SQL` `Solidity`
+`Java`, `Python`, `C++`, `JavaScript`, `TypeScript`, `SQL`, `Solidity`
 
-**Backend & Tools:**  
-`Spring Boot` `REST APIs` `Django` `Django REST` `FastAPI` `Node.js` `Express.js` `JWT` `OAuth2` `Postman`
+**Backend & APIs:**  
+`Spring Boot`, `REST APIs`, `Django`, `Django REST`, `FastAPI`, `Node.js`, `Express.js`, `JWT`, `OAuth2`, `Postman`
 
 **Frontend:**  
-`React.js` `Next.js` `HTML5` `CSS3`
+`React.js`, `Next.js`, `HTML5`, `CSS3`
 
 **Databases:**  
-`MySQL` `MongoDB` `SQLite` `Firebase`
+`MySQL`, `MongoDB`, `SQLite`, `Firebase`
 
 **Dev Tools & Platforms:**  
-`Git` `GitHub` `Docker` `Apache Superset` `Vercel` `PythonAnywhere`
+`Git`, `GitHub`, `Docker`, `Apache Superset`, `Vercel`, `PythonAnywhere`
 
-**ML/DS Libraries:**  
-`NumPy` `Pandas` `Matplotlib` `scikit-learn` `PyTorch` `Keras`
-
----
+**ML & Data Science:**  
+`NumPy`, `Pandas`, `Matplotlib`, `scikit-learn`, `PyTorch`, `Keras`
 
 ## 📊 GitHub Stats
 
@@ -59,28 +53,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tyagi-krishna&theme=shadow_blue&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tyagi-krishna&theme=shadow_blue&hide_border=false&layout=compact)
 
----
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=tyagi-krishna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-
-## ✍️ Dev Quote of the Day
+## ✍️ Developer Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=tyagi-krishna&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tyagi-krishna&icon=0&color=0" alt="Profile Visit Count"/>
-</p>
-
-<!-- Powered by GPRM | https://gprm.itsvg.in -->
