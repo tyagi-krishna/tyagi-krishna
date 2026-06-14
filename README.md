@@ -60,13 +60,13 @@ Currently exploring deeper internals of:
 `Keycloak` `OAuth2` `JWT` `RBAC`
 
 ## Databases
-`MySQL` `PostgreSQL`
+`MySQL` `PostgreSQL` `Redis`
 
 ## Infrastructure & DevOps
 `Docker` `Docker Compose` `Nginx` `Liquibase`
 
 ## Monitoring & Analytics
-`Grafana` `Apache Superset`
+`Apache Superset`
 
 ---
 
