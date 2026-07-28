@@ -94,14 +94,6 @@ Production-style distributed microservices platform built using:
 
 ---
 
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tyagi-krishna&show_icons=true&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tyagi-krishna&layout=compact&hide_border=true)
-
----
-
 # Contact
 
 - LinkedIn: https://www.linkedin.com/in/tyagi-krishna
