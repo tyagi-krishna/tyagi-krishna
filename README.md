@@ -1,9 +1,8 @@
-
 <div align="center">
 
 # Krishna Tyagi
 
-Backend Engineer focused on distributed systems, event-driven architectures, scalable backend platforms, and production-grade microservices.
+Backend Engineer focused on distributed systems, event-driven architectures, and production-grade microservices.
 
 <br>
 
@@ -25,26 +24,22 @@ Backend Engineer focused on distributed systems, event-driven architectures, sca
 
 # About Me
 
-Backend Engineer with production experience building scalable Java/Spring Boot systems across:
-- Multi-tenant SaaS platforms
-- Distributed microservices
-- Enterprise commerce systems
-- Event-driven backend architectures
+Backend Engineer with production experience building Java/Spring Boot systems across multi-tenant SaaS platforms, distributed microservices, and event-driven enterprise commerce systems. I care most about backend architecture, performance under load, and systems that stay reliable in production — not just in a demo.
 
-Focused on:
-- Distributed Systems
-- Backend Architecture
-- Event-Driven Design
-- Performance Optimization
-- Scalability Engineering
-- Production Reliability
+---
 
-Currently exploring deeper internals of:
-- Apache Kafka
-- Redis
-- Distributed Transactions
-- Infrastructure & Observability
-- Cloud-native backend systems
+# Experience
+
+## Vegazva Group — Backend Developer *(Dec 2025 – Present)*
+- Architected a multi-tenant HRMS and payroll platform from scratch — schema, service boundaries, and API contracts
+- Built a subscription-tier feature-gating system and an end-to-end quote-request workflow for OEM storefronts without full checkout enablement
+- Extended a custom RBAC layer on top of Keycloak; root-caused and fixed a production-blocking Liquibase migration failure
+- Designed OpenSearch-powered parts discovery at sub-1-second latency across 10,000+ indexed records
+
+## Innobit Systems — Member Technical Staff *(Dec 2024 – Dec 2025)*
+- Built a multi-tenant SaaS e-commerce backend from scratch — 50+ merchants, tenant isolation, subdomain routing
+- Integrated PayPal, TaxJar, and IPQS fraud detection into the order/subscription lifecycle
+- Reduced critical API response times from 20s+ to under 2 seconds; resolved JVM heap exhaustion via thread dump analysis
 
 ---
 
@@ -63,22 +58,7 @@ Currently exploring deeper internals of:
 `MySQL` `PostgreSQL` `Redis`
 
 ## Infrastructure & DevOps
-`Docker` `Docker Compose` `Nginx` `Liquibase`
-
-## Monitoring & Analytics
-`Apache Superset`
-
----
-
-# Production Experience Highlights
-
-- Built backend services for enterprise aftermarket commerce platforms handling 20,000+ daily API requests
-- Architected multi-tenant SaaS systems with scalable service boundaries and tenant isolation
-- Reduced critical API response times from 20s+ to under 2 seconds through JVM analysis and query optimization
-- Designed asynchronous event-driven workflows preventing request blocking under peak load
-- Built transactional order lifecycle systems covering refunds, returns, subscriptions, and shipping flows
-- Integrated enterprise APIs including UPS, TForce Freight, PayPal, TaxJar, and IPQS
-- Automated deployment infrastructure for Spring Boot, React, MySQL, Grafana, and Superset stacks
+`Docker` `Docker Compose` `Nginx` `Liquibase` `Apache Superset`
 
 ---
 
@@ -105,14 +85,12 @@ Production-style distributed microservices platform built using:
 
 ---
 
-# Current Focus
+# Currently Exploring
 
-- Distributed Systems Engineering
-- Kafka Internals & Scalability
-- Redis Performance Patterns
-- Cloud & Infrastructure Engineering
-- Observability & Reliability Engineering
-- High-level System Design
+- Kafka internals & scalability
+- Redis performance patterns
+- Distributed transactions
+- Cloud-native backend infrastructure & observability
 
 ---
 
